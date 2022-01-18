@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.addproejct {
+    width: 99%;
+}
+
+@media (min-width: 640px) {
+	.addproejct {
+		width: 80%;
+	}
+}
